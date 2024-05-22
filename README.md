@@ -18,7 +18,7 @@
 
 > 注意：本仓库为项目的硬件部分，需要配合服务端使用。
 
-本项目使用了`PlatformIO`作为开发环境，并使用了自定义的开发板配置[Arduino_Core_STM32](https://github.com/YukiIsait/Arduino_Core_STM32)和[PlatformIO_STM32](https://github.com/YukiIsait/PlatformIO_STM32)，因此需要安装`PlatformIO`插件并导入相应的配置文件后才能编译。
+本项目使用了`PlatformIO`作为开发环境，并使用了自定义的开发板配置[Arduino_Core_STM32](https://github.com/YukiIsait/Arduino_Core_STM32)和[PlatformIO_STM32](https://github.com/YukiIsait/PlatformIO_STM32)，因此需要安装PlatformIO插件并导入相应的配置文件后才能编译。
 
 ## 项目预览
 
