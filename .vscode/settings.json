@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.manifest": "xml",
+        "*.json": "jsonc",
+        "buffer": "cpp",
+        "array": "cpp",
+        "internet": "cpp",
+        "socket": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "optional": "cpp"
+    }
+}
