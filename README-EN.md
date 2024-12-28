@@ -2,7 +2,7 @@
 
 🌍 *[简体中文](README.md) ∙ [English](README-EN.md)*
 
-An identity authentication access control system based on NFC technology. Leveraging the portability and intelligence of mobile terminal devices, the system achieves rapid and secure identity verification through NFC technology. This repository is part of the implementation of the hardware.
+An identity authentication access control system based on NFC technology. Leveraging the portability and intelligence of mobile terminal devices, the system achieves rapid and secure identity verification through NFC technology. This repository is the hardware implementation part of the project.
 
 ## Main Technologies
 
