@@ -9,7 +9,7 @@ void LCD::begin() {
 
 void LCD::showReady() {
     lcd.clear();
-    lcd.print("Close your card");
+    lcd.print("Tap your card");
     lcd.setCursor(7, 1);
     lcd.print("to unlock");
 }
